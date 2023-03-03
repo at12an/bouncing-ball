@@ -1,6 +1,6 @@
 # bouncing-ball
 
-Simple simulator of a bouncing ball
+Simple simulator of a bouncing ball made using pythongs pygame library
 
 How to download: 
 1. Git clone / download zip and unzip
